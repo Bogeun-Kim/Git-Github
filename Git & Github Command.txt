@@ -1,0 +1,15 @@
+1. git 초기화
+> git init
+
+2. git 상태 확인
+> git status
+
+3. .git 파일의 구조
+- Staging Area : 변경 사항들에 대한 정보를 임시로 저장 및 검토하는 공간
+- Local Repository : 커밋 된 파일과 변경 이력을 영구적으로 저장하는 공간
+
+4. 파일 github에 업로드하는 과정
+> git init
+> git add 올릴파일이름 혹은 git add .
+> git commit -m "memo"
+> git push
