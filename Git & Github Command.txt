@@ -13,6 +13,6 @@
 
 5. 파일 github에 업로드하는 과정
 > git init
-> git add 올릴파일이름 혹은 git add .
-> git commit -m "memo"
+> git add 올릴파일이름 혹은 git add .		(Staging Area에 올리기)
+> git commit -m "memo" 			(새로운 버전 생성)
 > git push
