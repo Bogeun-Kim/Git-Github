@@ -16,3 +16,5 @@
 > git add 올릴파일이름 혹은 git add .		(Staging Area에 올리기)
 > git commit -m "memo" 			(새로운 버전 생성)
 > git push
+
+Branch : feature/createboard, bugfix/
